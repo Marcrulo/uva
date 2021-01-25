@@ -5,8 +5,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define FOI(i, A, B) for(i=A; i<=B; i++)
-#define FOD(i, A, B) for(i=A; i>=B; i--)
 
 int main()
 {
