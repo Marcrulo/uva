@@ -24,10 +24,9 @@ ashtray
 Lada
 6000.00 1
 tires
-1 2
+1 1
 coffee
 Starbucks
-1.50 0
-Sunbucks
-1 0
+1.50 1
+coffee
 0 0
